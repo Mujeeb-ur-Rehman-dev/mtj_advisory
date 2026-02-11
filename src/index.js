@@ -1,14 +1,27 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
+import App from '../src/main-component/App/App';
 import reportWebVitals from './reportWebVitals';
+import { ParallaxProvider } from 'react-scroll-parallax';
+import './css/font-awesome.min.css';
+import './css/themify-icons.css';
+import './css/animate.css';
+import './css/flaticon.css';
+import './sass/style.scss';
+
+import { PersistGate } from "redux-persist/integration/react";
+import { store, persistor } from "./store/index";
+import { Provider } from "react-redux";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
+    <Provider store={store}>
+        <PersistGate loading={null} persistor={persistor}>
+            <ParallaxProvider>
+                <App />
+            </ParallaxProvider>
+        </PersistGate>
+    </Provider>
 );
 
 // If you want to start measuring performance in your app, pass a function

@@ -1,0 +1,24 @@
+.event-type-badge {
+    margin-bottom: 25px;
+    
+    .badge {
+        padding: 12px 20px;
+        border-radius: 25px;
+        font-size: 14px;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.8px;
+        
+        &.news-badge {
+            background: rgba(52, 152, 219, 0.15);
+            color: #3498db;
+            border: 2px solid rgba(52, 152, 219, 0.3);
+        }
+        
+        &.event-badge {
+            background: rgba(219, 158, 48, 0.15);
+            color: #DB9E30;
+            border: 2px solid rgba(219, 158, 48, 0.3);
+        }
+    }
+}

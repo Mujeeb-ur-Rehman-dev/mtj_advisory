@@ -1,0 +1,7 @@
+@use "sass:math";
+
+// Define the function to calculate REM value
+@function calc_rem_value($font-size) {
+    @return math.div(1, $base-font-size) * $font-size + rem; // Corrected line
+  }
+  
