@@ -9,7 +9,7 @@ const Contactpage = () => {
             <div className="container">
                 <div className="row">
                     <div className="col col-lg-10 offset-lg-1">
-                        <h2>Let’s Talk</h2>
+                        <h2 style={{ color: '#DB9E30' }}>Let’s Talk</h2>
                         <p>Whether you are establishing Sharia governance, structuring products, or strengthening compliance, MTJ Advisory is ready to support you.</p>
                         <div className="office-info">
                             <div className="row">
@@ -64,7 +64,7 @@ const Contactpage = () => {
                             </div>
                         </div>
                         <div className="wpo-contact-title">
-                            <h2>Strengthen Your Sharia Governance</h2>
+                            <h2 style={{ color: '#DB9E30' }}>Strengthen Your Sharia Governance</h2>
                             <p>Partner with MTJ Advisory for credible, practical, and scalable Sharia solutions.</p>
                         </div>
                         <div className="wpo-contact-form-area">

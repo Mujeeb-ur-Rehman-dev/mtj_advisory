@@ -4,6 +4,52 @@ import simg3 from '../images/service/3.jpg'
 import simg4 from '../images/service/4.jpg'
 import simg5 from '../images/service/5.jpg'
 import simg6 from '../images/service/6.jpg'
+import simg7 from '../images/service/7.jpg'
+import simg8 from '../images/service/8.jpg'
+import simg9 from '../images/service/9.jpg'
+import simg10 from '../images/service/10.jpg'
+import simg11 from '../images/service/11.jpg'
+import simg12 from '../images/service/12.jpg'
+import simg13 from '../images/service/13.jpg'
+import simg14 from '../images/service/14.jpg'
+import simg15 from '../images/service/15.jpg'
+import simg16 from '../images/service/16.jpg'
+import simg17 from '../images/service/17.jpg'
+import simg18 from '../images/service/18.jpg'
+import simg19 from '../images/service/19.jpg'
+import simg20 from '../images/service/20.jpg'
+import simg21 from '../images/service/21.jpg'
+import simg22 from '../images/service/22.jpg'
+import simg23 from '../images/service/23.jpg'
+import simg24 from '../images/service/24.jpg'
+import simg25 from '../images/service/25.jpg'
+import simg26 from '../images/service/26.jpg'
+import simg27 from '../images/service/27.jpg'
+import simg28 from '../images/service/28.jpg'
+import simg29 from '../images/service/29.jpg'
+import simg30 from '../images/service/30.jpg'
+import simg31 from '../images/service/31.jpg'
+import simg32 from '../images/service/32.jpg'
+import simg33 from '../images/service/33.jpg'
+import simg34 from '../images/service/34.jpg'
+import simg35 from '../images/service/35.jpg'
+import simg36 from '../images/service/36.jpg'
+import simg37 from '../images/service/37.jpg'
+import simg38 from '../images/service/38.jpg'
+import simg39 from '../images/service/39.jpg'
+import simg40 from '../images/service/40.jpg'
+import simg41 from '../images/service/41.jpg'
+import simg42 from '../images/service/42.jpg'
+import simg43 from '../images/service/43.jpg'
+import simg44 from '../images/service/44.jpg'
+import simg45 from '../images/service/45.jpg'
+import simg46 from '../images/service/46.jpg'
+import simg47 from '../images/service/47.jpg'
+import simg48 from '../images/service/48.jpg'
+import simg49 from '../images/service/49.jpg'
+import simg50 from '../images/service/50.jpg'
+
+
 
 import sSimg1 from '../images/service-single/img-1.jpg'
 import sSimg2 from '../images/service-single/img-2.jpg'
@@ -22,7 +68,7 @@ import icon6 from '../images/service/6.svg'
 const Services = [
    {
       Id: '01',
-      sImg: simg1,
+      sImg: simg15,
       sSImg: sSimg1,
       icon: icon1,
       title: 'SMEs Sharia Advisory',
@@ -32,7 +78,7 @@ const Services = [
    },
    {
       Id: '02',
-      sImg: simg2,
+      sImg: simg16,
       sSImg: sSimg2,
       icon: icon2,
       title: 'Business Model & Activity Assessment',
@@ -42,7 +88,7 @@ const Services = [
    },
    {
       Id: '03',
-      sImg: simg3,
+      sImg: simg17,
       sSImg: sSimg3,
       icon: icon3,
       title: 'Operational Sharia Advisory',
@@ -62,7 +108,7 @@ const Services = [
    },
    {
       Id: '05',
-      sImg: simg5,
+      sImg: simg19,
       sSImg: sSimg5,
       icon: icon5,
       title: 'Appointment of Sharia Board',
@@ -72,7 +118,7 @@ const Services = [
    },
    {
       Id: '06',
-      sImg: simg6,
+      sImg: simg18,
       sSImg: sSimg6,
       icon: icon6,
       title: 'Growth-Oriented Sharia Solutions',
@@ -82,7 +128,7 @@ const Services = [
    },
    {
       Id: '07',
-      sImg: simg1,
+      sImg: simg48,
       sSImg: sSimg1,
       icon: icon1,
       title: 'Sharia Scholar Identification',
@@ -112,7 +158,7 @@ const Services = [
    },
    {
       Id: '10',
-      sImg: simg4,
+      sImg: simg20,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Secretariat & Coordination Support',
@@ -152,7 +198,7 @@ const Services = [
    },
     {
       Id: '14',
-      sImg: simg2,
+      sImg: simg49,
       sSImg: sSimg2,
       icon: icon2,
       title: 'Transaction & Product Oversight',
@@ -162,7 +208,7 @@ const Services = [
    },
      {
       Id: '15',
-      sImg: simg3,
+      sImg: simg50,
       sSImg: sSimg3,
       icon: icon3,
       title: 'Reporting & Regulatory Support',
@@ -172,7 +218,7 @@ const Services = [
    },
     {
       Id: '16',
-      sImg: simg4,
+      sImg: simg11,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Sharia Governance Framework',
@@ -182,7 +228,7 @@ const Services = [
    },
       {
       Id: '17',
-      sImg: simg4,
+      sImg: simg12,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Framework Design & Customization',
@@ -192,7 +238,7 @@ const Services = [
    },
       {
       Id: '18',
-      sImg: simg4,
+      sImg: simg13,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Roles & Accountability Structure',
@@ -202,7 +248,7 @@ const Services = [
    },
       {
       Id: '19',
-      sImg: simg4,
+      sImg: simg14,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Policies, Charters & Controls',
@@ -212,7 +258,7 @@ const Services = [
    },
       {
       Id: '20',
-      sImg: simg4,
+      sImg: simg46,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Implementation & Continuous Review',
@@ -222,7 +268,7 @@ const Services = [
    },
      {
       Id: '21',
-      sImg: simg4,
+      sImg: simg21,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Sharia Compliance Product Structuring',
@@ -232,7 +278,7 @@ const Services = [
    },
      {
       Id: '22',
-      sImg: simg4,
+      sImg: simg22,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Product Concept Evaluation',
@@ -242,7 +288,7 @@ const Services = [
    },
      {
       Id: '23',
-      sImg: simg4,
+      sImg: simg23,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Islamic Contract Structuring',
@@ -252,7 +298,7 @@ const Services = [
    },
      {
       Id: '24',
-      sImg: simg4,
+      sImg: simg24,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Documentation & Legal Review',
@@ -262,7 +308,7 @@ const Services = [
    },
      {
       Id: '25',
-      sImg: simg4,
+      sImg: simg25,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Sharia Approval Facilitation',
@@ -272,7 +318,7 @@ const Services = [
    },
     {
       Id: '26',
-      sImg: simg4,
+      sImg: simg47,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Sharia Review & Sharia Certification (Fatwa) Services',
@@ -282,7 +328,7 @@ const Services = [
    },
     {
       Id: '27',
-      sImg: simg4,
+      sImg: simg7,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Comprehensive Sharia Review',
@@ -292,7 +338,7 @@ const Services = [
    },
     {
       Id: '28',
-      sImg: simg4,
+      sImg: simg8,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Assessment Against Sharia Standards',
@@ -302,7 +348,7 @@ const Services = [
    },
     {
       Id: '29',
-      sImg: simg4,
+      sImg: simg9,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Fatwa Issuance & Certification',
@@ -312,7 +358,7 @@ const Services = [
    },
     {
       Id: '30',
-      sImg: simg4,
+      sImg: simg10,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Stakeholder Confidence & Market Acceptance',
@@ -322,7 +368,7 @@ const Services = [
    },
      {
       Id: '31',
-      sImg: simg4,
+      sImg: simg26,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Sharia Auditing Services',
@@ -332,7 +378,7 @@ const Services = [
    },
      {
       Id: '32',
-      sImg: simg4,
+      sImg: simg27,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Risk-Based Sharia Audit Planning',
@@ -342,7 +388,7 @@ const Services = [
    },
      {
       Id: '33',
-      sImg: simg4,
+      sImg: simg28,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Execution of Sharia Audit Fieldwork',
@@ -352,7 +398,7 @@ const Services = [
    },
      {
       Id: '34',
-      sImg: simg4,
+      sImg: simg29,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Audit Findings & Recommendations',
@@ -362,7 +408,7 @@ const Services = [
    },
      {
       Id: '35',
-      sImg: simg4,
+      sImg: simg30,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Follow-Up & Rectification Review',
@@ -372,7 +418,7 @@ const Services = [
    },
    {
       Id: '36',
-      sImg: simg4,
+      sImg: simg31,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Zakat Calculation Services',
@@ -382,7 +428,7 @@ const Services = [
    },
         {
       Id: '37',
-      sImg: simg4,
+      sImg: simg32,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Identification of Zakatable Assets',
@@ -392,7 +438,7 @@ const Services = [
    },
         {
       Id: '38',
-      sImg: simg4,
+      sImg: simg33,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Sharia-Compliant Calculation Methodology',
@@ -402,7 +448,7 @@ const Services = [
    },
         {
       Id: '39',
-      sImg: simg4,
+      sImg: simg34,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Review of Financial Data',
@@ -412,7 +458,7 @@ const Services = [
    },
         {
       Id: '40',
-      sImg: simg4,
+      sImg: simg35,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Zakat Reporting & Advisory Support',
@@ -422,7 +468,7 @@ const Services = [
    },
         {
       Id: '41',
-      sImg: simg4,
+      sImg: simg36,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Sharia Screening Services',
@@ -432,7 +478,7 @@ const Services = [
    },
         {
       Id: '42',
-      sImg: simg4,
+      sImg: simg37,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Business Activity Screening',
@@ -442,7 +488,7 @@ const Services = [
    },
         {
       Id: '43',
-      sImg: simg4,
+      sImg: simg38,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Financial Ratio Screening',
@@ -452,7 +498,7 @@ const Services = [
    },
         {
       Id: '44',
-      sImg: simg4,
+      sImg: simg39,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Ongoing Monitoring',
@@ -462,7 +508,7 @@ const Services = [
    },
         {
       Id: '45',
-      sImg: simg4,
+      sImg: simg40,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Screening Reports & Certification',
@@ -472,7 +518,7 @@ const Services = [
    },
          {
       Id: '46',
-      sImg: simg4,
+      sImg: simg41,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Sharia Training',
@@ -482,7 +528,7 @@ const Services = [
    },
          {
       Id: '47',
-      sImg: simg4,
+      sImg: simg42,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Customized Training Design',
@@ -492,7 +538,7 @@ const Services = [
    },
          {
       Id: '48',
-      sImg: simg4,
+      sImg: simg43,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Practical Application of Sharia Training',
@@ -502,7 +548,7 @@ const Services = [
    },
          {
       Id: '49',
-      sImg: simg4,
+      sImg: simg44,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Standards & Regulatory Coverage',
@@ -512,7 +558,7 @@ const Services = [
    },
          {
       Id: '50',
-      sImg: simg4,
+      sImg: simg45,
       sSImg: sSimg4,
       icon: icon4,
       title: 'Workshops & Continuous Learning',

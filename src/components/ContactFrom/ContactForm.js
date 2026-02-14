@@ -106,7 +106,7 @@ const ContactForm = () => {
                 </div>
             </div>
             <div className="submit-area">
-                <button type="submit" className="theme-btn disabled_btn" >Request a Consultation</button> 
+                <button type="submit" className="theme-btn disabled_btn" disabled >Request a Consultation</button> 
             </div>
         </form >
     )

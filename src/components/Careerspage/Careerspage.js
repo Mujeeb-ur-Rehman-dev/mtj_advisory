@@ -129,7 +129,7 @@ const Careerspage = () => {
                         <div className="careers-intro">
                             <div className="row">
                                 <div className="col col-lg-8 col-md-12 col-sm-12 col-12">
-                                    <h2>Join Our Team</h2>
+                                    <h2 style={{ color: '#DB9E30' }}>Join Our Team</h2>
                                     <p>At MTJ Advisory, we believe in fostering a culture of innovation, collaboration, and continuous learning. We're looking for passionate individuals who share our vision of making a positive impact in the advisory and consulting space.</p>
                                     <p>We offer competitive benefits, professional development opportunities, and a supportive work environment where your ideas and contributions are valued.</p>
                                 </div>
@@ -150,7 +150,7 @@ const Careerspage = () => {
 
                         {/* Current Openings Section */}
                         <div className="current-openings">
-                            <h2>Current Openings</h2>
+                            <h2 style={{ color: '#DB9E30' }}>Current Openings</h2>
                             
                             {/* Filter Buttons */}
                             <div className="filter-section">

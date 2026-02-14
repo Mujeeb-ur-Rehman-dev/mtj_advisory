@@ -16,10 +16,11 @@ const Governance = () => {
                                 <li>Cost effective and scalable service model</li>
                                 <li>Hands on support from structuring to audit and certification</li>
                             </ul>
-                        </div>
-                        <p>
+                             <p>
                             MTJ Advisory combines the governance depth of global firms with the agility and accessibility required by growing businesses.
                             </p>
+                        </div>
+                       
                     </div>
                     <div className="col col-lg-6 col-md-12 col-sm-12 col-12">
                         <div className="careers-benefits">
@@ -35,7 +36,7 @@ const Governance = () => {
                         </div>
                     </div>
                 </div>
-                <h3 className="text-center mt-5">GOVERNANCE PAGE</h3>
+                <h3 className="text-center mt-5" style={{color: '#DB9E30'}}>GOVERNANCE</h3>
                 <p className="text-center">MTJ Advisory supports organizations in establishing strong Sharia governance frameworks that ensure independence, accountability, and regulatory compliance. Our governance solutions are aligned with international standards and tailored to the organization’s size, complexity, and jurisdiction.</p>
 
                        
